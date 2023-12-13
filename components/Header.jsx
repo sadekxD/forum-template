@@ -48,7 +48,8 @@ function Header() {
             <div className="shrink-0 mr-4">
               {/* Logo container */}
               <Link href="/" className="text-primary">
-                <Logo />
+                {/* <Logo /> */}
+                <img src="/logo-blue-top.png" alt="bloom genesis" className='h-[36px]' />
               </Link>
             </div>
 
@@ -59,12 +60,12 @@ function Header() {
                 <li className="hidden md:flex">
                   <SearchBar />
                 </li>
-                <li>
+                {/* <li>
                   <Link className="text-sm font-medium hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                     href="/post/kjzl6cwe1jw14b9pin02aak0ot08wvnrhzf8buujkop28swyxnvtsjdye742jo6">
                     Learn more
                   </Link>
-                </li>
+                </li> */}
                 {/** Show connect button or user connected */}
                 {user ?
                   <li className="flex items-center relative ml-1 mr-1">
