@@ -8,7 +8,7 @@ global.orbis_context =
 
 /** Set the global chat context here (the chat displayed when users click on the "Community Chat" button) */
 global.orbis_chat_context =
-    "kjzl6cwe1jw147040w6bj3nkvny3ax30q76ib5ytxo6298psrx1oawa3wmme2jx";
+	"kjzl6cwe1jw14643fi40uq31o9j3frhv8on683iaqc6vjulrtj4ncj633acqic4";
 
 let orbis = new Orbis({
     useLit: false,

@@ -21,7 +21,7 @@ function Hero({ title, description, image }) {
 
               {/* Image */}
               <div className="hidden md:flex left-[42rem] pr-32 justify-center">
-                {image}
+                {/* {image} */}
               </div>
             </div>
           </div>
