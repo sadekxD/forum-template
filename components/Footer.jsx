@@ -53,7 +53,7 @@ function Footer() {
                                   <TwitterIcon />
                               </Link>
                           </li>
-                          <li>
+                          {/* <li>
                               <Link
                                   className="flex justify-center items-center text-brand text-brand-hover"
                                   target="_blank"
@@ -61,7 +61,7 @@ function Footer() {
                               >
                                   <GithubIcon />
                               </Link>
-                          </li>
+                          </li> */}
                       </ul>
 
                       {/* Copyright */}
