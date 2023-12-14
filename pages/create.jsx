@@ -23,12 +23,12 @@ export default function Create() {
 				{/** Description */}
 				<meta
 					name="description"
-					content="Discuss the future of Orbis and experience the power of Open Social on our Bloom Genesis Forum."
+					content="Discuss the future of Bloom Genesis and experience the power of Open Social on our Bloom Genesis Forum."
 					key="description"
 				></meta>
 				<meta
 					property="og:description"
-					content="Discuss the future of Orbis and experience the power of Open Social on our Bloom Genesis Forum."
+					content="Discuss the future of Bloom Genesis and experience the power of Open Social on our Bloom Genesis Forum."
 					key="og_description"
 				/>
 				<link rel="icon" href="/favicon.png" />
