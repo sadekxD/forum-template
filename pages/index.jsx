@@ -6,7 +6,11 @@ import Hero from "../components/Hero";
 import Sidebar from "../components/Sidebar";
 import PostItem from "../components/PostItem";
 import Footer from "../components/Footer";
-import { HeroOrbisIcon, LoadingCircle } from "../components/Icons";
+import {
+	HeroBloomGenesisIcon,
+	HeroOrbisIcon,
+	LoadingCircle,
+} from "../components/Icons";
 import { Orbis, useOrbis } from "@orbisclub/components";
 
 function Home({ defaultPosts }) {
