@@ -203,7 +203,7 @@ const CategoriesNavigation = ({ categories, nav, setNav }) => {
 			<div className="text-center md:text-left md:flex justify-between items-center">
 				{/* Right: Button */}
 				<div className="mb-4 md:mb-0 md:order-1 md:ml-6">
-					<Link className="btn-sm py-1.5 btn-brand" href="/">
+					<Link className="btn-sm py-1.5 btn-brand" href="/create">
 						Create Post
 					</Link>
 				</div>
