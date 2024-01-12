@@ -55,7 +55,7 @@ function Header() {
 		<>
 			<header className="w-full z-30 bg-gradient-to-b from-[#eeebfe] to-[#FFF]">
 				<div className="max-w-6xl mx-auto px-4 sm:px-6">
-					<div className="flex items-center justify-between h-fit md:h-20">
+					<div className="flex items-center justify-between h-fit py-2 md:h-20">
 						{/* Site branding */}
 						<div className="shrink-0 mr-4">
 							{/* Logo container */}
@@ -122,7 +122,7 @@ function Header() {
 									</li>
 								)}
 								{/** Will open the discussion feed on the right */}
-								<li className="ml-3">
+								<li className="ml-3 mt-2 md:mt-0">
 									<div
 										className="relative btn-sm btn-secondary w-full"
 										onClick={() => openCommunityChat()}
