@@ -62,7 +62,7 @@ function Header() {
 							<Link href="/" className="text-primary">
 								{/* <Logo /> */}
 								<img
-									src="/logo-blue-top.png"
+									src="/logo-blue-2.png"
 									alt="bloom genesis"
 									className="h-[36px]"
 								/>
